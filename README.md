@@ -9,5 +9,4 @@
 <h2> All profile</h2>
 ![image](https://user-images.githubusercontent.com/101451823/201080080-cbab2e52-1a77-4d9e-88a4-fbefd93d1467.png)
 
-![image](https://user-images.githubusercontent.com/101451823/202116196-5c787ed5-c56d-4b49-9641-08eafea35067.png)
 
